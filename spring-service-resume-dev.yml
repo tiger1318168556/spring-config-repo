@@ -1,1 +1,4 @@
-
+mysql:
+  url: dev-http://localhost:3306/db100
+springcloud:
+  message: hello springcloud,100
