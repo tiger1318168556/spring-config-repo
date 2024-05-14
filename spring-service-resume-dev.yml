@@ -1,4 +1,4 @@
 mysql:
-  url: dev-http://localhost:3306/db200
+  url: dev-http://localhost:3306/db300
 springcloud:
-  message: hello springcloud,200
+  message: hello springcloud,300
